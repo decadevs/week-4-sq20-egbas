@@ -1,0 +1,11 @@
+StudentName,ID,Gender,CourseScore,PayTuition,Offence
+Jesse,S001,Male,50,true,false
+Emmanuel,S002,Male,60,true,false
+Joseph,S003,Female,70,true,true
+Michael,S004,Male,80,true,true
+David,S005,Male,90,true,true
+Abigael,S006,Female,80,true,true
+Roselyn,S007,Female,70,true,true
+Rosemary,S008,Female,60,false,true
+Janet,S009,Female,50,false,true
+Ibukun,S010,Female,40,false,false
